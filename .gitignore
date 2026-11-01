@@ -32,6 +32,8 @@
 *.exe
 *.out
 *.app
+/loan-eligibility
+/loan-eligibility.exe
 *.i*86
 *.x86_64
 *.hex
@@ -55,3 +57,4 @@ dkms.conf
 *.dwo
 
 app
+loanapplications.txt
